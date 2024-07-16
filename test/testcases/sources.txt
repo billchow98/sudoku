@@ -1,0 +1,3 @@
+easy50.in.txt: https://norvig.com/easy50.txt
+hard95.in.txt: http://magictour.free.fr/top95
+hardest11.in.txt: https://norvig.com/hardest.txt
